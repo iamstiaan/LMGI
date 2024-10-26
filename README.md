@@ -290,6 +290,7 @@ CMD ["yarn", "start"]
 
 - The **GitHub repository** is ready for community contributions, with clear **backend, frontend, and smart contract structures**.
 - **Community-driven contributions** will help scale, improve, and build a transparent and equitable ecosystem.
-- **Let Me Get It** is now fully equipped to **control the supply chain with fairness and love**!
+- **Let Me Get It** is now
+ fully equipped to **control the supply chain with fairness and love**!
 
 👾💻 You’re all set! Let me know if you’d like further assistance or walkthroughs on any part of the deployment or GitHub setup!
